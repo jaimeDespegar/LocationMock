@@ -17,9 +17,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.jaimeDespegar</groupId>
-            <artifactId>Location-Core</artifactId>
-            <version>0.3</version>
+            <groupId>pp2</groupId>
+            <artifactId>location-core</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
          
