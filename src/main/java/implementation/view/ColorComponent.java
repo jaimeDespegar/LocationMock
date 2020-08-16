@@ -12,7 +12,7 @@ public class ColorComponent implements MyViewComponent {
     @Override
     public List<JComponent> getComponents(View context) {
         List<JComponent> components = new ArrayList<>();
-        JButton button = new JButton("Color Settings");
+        JButton button = new JButton("Settings");
         button.setBounds(325, 53, 120, 23);
         button.addActionListener(i -> new ViewConfiguration(context));
         components.add(button);
