@@ -1,11 +1,11 @@
 package implementation;
 
 import model.Coordinate;
-import model.LocationConnector;
+import model.Location;
 import java.util.Arrays;
 import java.util.List;
 
-public class ApiLocationMock implements LocationConnector {
+public class LocationMock implements Location {
 
     private Boolean isActive;
 
